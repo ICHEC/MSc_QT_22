@@ -26,7 +26,7 @@ The course material will be hosted on GitHub and includes a folder for each sess
 
 
 ## Contact
-- Antonio Villalpando – <antonio.villalpando@ichec.ie>
-- Bruno Chagas – <bruno.chagas@ichec.ie>
+- Karthik Krishnakumar – <karthik.krishnakumar@ichec.ie>
+- Emil Dimitrov – <emil.dimitrov@ichec.ie>
 - Conor Dunne – <conor.dunne@ichec.ie>
-- Seán Courtney – <sean.courtney@ichec.ie>
+- Venkatesh Kannan – <venkatesh.kannan@ichec.ie>
