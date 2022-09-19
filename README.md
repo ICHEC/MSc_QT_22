@@ -26,6 +26,7 @@ The course material will be hosted on GitHub and includes a folder for each sess
 
 
 ## Contact
+- Divyajyoti Sarkar - <divyajyoti.sarkar@ichec.ie>
 - Karthik Krishnakumar – <karthik.krishnakumar@ichec.ie>
 - Emil Dimitrov – <emil.dimitrov@ichec.ie>
 - Conor Dunne – <conor.dunne@ichec.ie>
